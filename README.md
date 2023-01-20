@@ -1,5 +1,5 @@
 # P-ginaPapaLoca.
-Proyecto de la taquería de un amigo.
+Taquería de un amigo, creada con HTML y CSS.
 
 <!DOCTYPE html>
 <html lang = "en">
